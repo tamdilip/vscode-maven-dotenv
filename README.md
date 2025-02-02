@@ -1,4 +1,6 @@
-# 🔌 vscode-maven-dotenv
+# 🔌 [vscode-maven-dotenv](https://github.com/tamdilip/vscode-maven-dotenv)
+
+[![vscode marketplace](https://img.shields.io/badge/vscode-marketplace-green)]([https://webauthn-fido.onrender.com](https://marketplace.visualstudio.com/items?itemName=tamdilip.vscode-maven-dotenv))
 
 Minimal VSCode Extension to scan the `.env` file properties from the root folder of the project and create/update workspace's `settings.json` on `maven.terminal.customEnv` configuration automatically with the expected format of `environmentVariable` & `value`, which will be prefixed with maven commands when executed from the vscode maven lifecycle.
 
