@@ -15,8 +15,6 @@ That's it, that's all it does. Just that I'm lazy enough to do them manually eve
  - Right click on `.vsix` file -> Install Extension.
 
 ## Usage
- - Place the downloaded `.vsix` file inside a folder and open the folder in vscode.
- - Right click on `.vsix` file -> Install Extension.
  - Place your valid `.env` file with environment properties in root folder.
  - Every change will to `.env` file will be automatically watched actively and updated in `settings.json`'s `maven.terminal.customEnv` config.
  - Optional: Hit `ctrl + shift + p` to open vscode command palatte and search for `Scan Maven DotEnv` to run the scan manually.
